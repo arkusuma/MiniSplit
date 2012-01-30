@@ -1,0 +1,20 @@
+MiniSplit 1.3 (19-Feb-2004)
+  - New: support for large file ( > 4 GB )
+  - New: auto convert split size
+  - New: added size template for many storage media
+  - New: settings saved for future use
+
+MiniSplit 1.2a (7-Oct-2003)
+  - Fixed: crc file not used even if it was exists
+  - Fixed: unable to complete file joining on Windows 9x (hung after
+           the first file). thanks to cipinang_boy for bugging me ;)
+
+MiniSplit 1.2 (7-Aug-2003)
+  - New: number formatting (e.g: 1,454,080 bytes)
+  - New: you can use real number on `split into' column
+  - New: internal error messages are now taken from Windows message-table.
+  - New: support for XP themes
+
+MiniSplit 1.1 (20-Feb-2003)
+MiniSplit 1.0a (29-Jul-2002)
+and older version doesn't have historical records.

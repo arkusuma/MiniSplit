@@ -1,0 +1,29 @@
+# You need Mingw (http://mingw.sf.net) to use this Makefile
+# And also UPX (http://upx.tsx.org) to compress the EXE
+
+CC = gcc
+CFLAGS = -Os -g -Wall
+LIBS = -mwindows -lole32 -lcomctl32 -ladvapi32
+OBJS = main.res crc32.o utils.o big_file.o main.o
+
+MiniSplit.exe: $(OBJS)
+	$(CC) $(CFLAGS) -o MiniSplit.exe $(OBJS) $(LIBS)
+#	upx --best MiniSplit.exe
+
+big_file.o: big_file.c
+	$(CC) $(CFLAGS) -c big_file.c
+
+main.o: main.c
+	$(CC) $(CFLAGS) -c main.c
+
+utils.o: utils.c
+	$(CC) $(CFLAGS) -c utils.c
+
+crc32.o: crc32.c
+	$(CC) $(CFLAGS) -c crc32.c
+	
+main.res: main.rc
+	windres -O coff main.rc main.res
+
+clean:
+	del MiniSplit.exe *.o* main.res

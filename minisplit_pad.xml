@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="Windows-1252" ?> 
+
+<!-- Created By PAD Creator version: 1.2.2 -->
+<!-- Available for download at: http://www.padcreator.com -->
+
+<XML_DIZ_INFO>
+
+<MASTER_PAD_VERSION_INFO>
+ <MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+ <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+
+<Company_Info>
+ <Company_Name>LZE Software</Company_Name>
+ <Address_1>Jl. Harun IV/12 Rt 05/10</Address_1>
+ <Address_2>Jatirahayu, Pondok Gede</Address_2>
+ <City_Town>Bekasi</City_Town>
+ <State_Province>West Java</State_Province>
+ <Zip_Postal_Code>17414</Zip_Postal_Code>
+ <Country>Indonesia</Country>
+ <Company_WebSite_URL>http://www.lzesoftware.com</Company_WebSite_URL>
+  <Contact_Info>
+  <Author_First_Name>Anugrah</Author_First_Name>
+  <Author_Last_Name>Redja Kusuma</Author_Last_Name>
+  <Author_Email>arkusuma@lzesoftware.com</Author_Email>
+  <Contact_First_Name>Anugrah</Contact_First_Name>
+  <Contact_Last_Name>Redja Kusuma</Contact_Last_Name>
+  <Contact_Email>arkusuma@lzesoftware.com</Contact_Email>
+ </Contact_Info>
+ <Support_Info>
+  <Sales_Email>sales@lzesoftware.com</Sales_Email>
+  <Support_Email>support@lzesoftware.com</Support_Email>
+  <General_Email>arkusuma@lzesoftware.com</General_Email>
+  <Sales_Phone />
+  <Support_Phone />
+  <General_Phone>+628562261083</General_Phone>
+  <Fax_Phone />
+ </Support_Info>
+</Company_Info>
+
+<Program_Info>
+ <Program_Name>MiniSplit</Program_Name>
+ <Program_Version>1.3</Program_Version>
+ <Program_Release_Month>2</Program_Release_Month>
+ <Program_Release_Day>19</Program_Release_Day>
+ <Program_Release_Year>2004</Program_Release_Year>
+ <Program_Cost_Dollars />
+ <Program_Cost_Other_Code />
+ <Program_Cost_Other />
+ <Program_Type>Freeware</Program_Type>
+ <Program_Release_Status>Minor Update</Program_Release_Status>
+ <Program_Install_Support>No Install Support</Program_Install_Support>
+ <Program_OS_Support>Win95,Win98,WinME,WinNT 4.x,WinXP,Windows2000</Program_OS_Support>
+ <Program_Language>English</Program_Language>
+ <File_Info>
+  <Filename_Versioned>MiniSp12.zip</Filename_Versioned>
+  <Filename_Previous>MiniSp12.zip</Filename_Previous>
+  <Filename_Generic>MiniSp.zip</Filename_Generic>
+  <Filename_Long>MiniSplit-1.2a.zip</Filename_Long>
+  <File_Size_Bytes>12437</File_Size_Bytes>
+  <File_Size_K>12.1</File_Size_K>
+  <File_Size_MB>0.01</File_Size_MB>
+ </File_Info>
+ <Expire_Info>
+  <Has_Expire_Info>N</Has_Expire_Info>
+  <Expire_Count />
+  <Expire_Based_On />
+  <Expire_Other_Info />
+ </Expire_Info>
+ <Program_Change_Info>Support for large files. Added template for many storage media.</Program_Change_Info>
+ <Program_Specific_Category>Utilities</Program_Specific_Category>
+ <Program_Categories>File Splitter</Program_Categories>
+ <Program_System_Requirements />
+ <Includes_JAVA_VM>N</Includes_JAVA_VM>
+ <Includes_VB_Runtime>N</Includes_VB_Runtime>
+ <Includes_DirectX>N</Includes_DirectX>
+</Program_Info>
+
+<Program_Descriptions>
+ <English>
+  <Keywords>file, splitter, error checking, crc</Keywords>
+  <Char_Desc_45>File splitter with error checking support.</Char_Desc_45>
+  <Char_Desc_80>Small program for splitting large file into pieces, with error checking support.</Char_Desc_80>
+  <Char_Desc_250>MiniSplit is a small program for splitting large file into pieces. It supports error checking to ensure that each file parts are still in its original condition.</Char_Desc_250>
+  <Char_Desc_450>MiniSplit is a small program for splitting large file into pieces. It supports error checking to ensure that each file parts are still in its original condition.</Char_Desc_450>
+  <Char_Desc_2000>MiniSplit is a small program for splitting large file into pieces. It supports error checking to ensure that each file parts are still in its original condition.</Char_Desc_2000>
+ </English>
+</Program_Descriptions>
+
+<Web_Info>
+ <Application_URLs>
+  <Application_Info_URL>http://www.lzesoftware.com</Application_Info_URL>
+  <Application_Order_URL />
+  <Application_Screenshot_URL>http://www.lzesoftware.com/images/minisplit.png</Application_Screenshot_URL>
+  <Application_Icon_URL />
+  <Application_XML_File_URL>http://www.lzesoftware.com/products/minisplit_pad.xml</Application_XML_File_URL>
+ </Application_URLs>
+ <Download_URLs>
+  <Primary_Download_URL>http://www.lzesoftware.com/files/MiniSplit-1.3.zip</Primary_Download_URL>
+  <Secondary_Download_URL>http://students.if.itb.ac.id/~if11072/files/MiniSplit-1.3.zip</Secondary_Download_URL>
+  <Additional_Download_URL_1 />
+  <Additional_Download_URL_2 />
+ </Download_URLs>
+</Web_Info>
+
+<Permissions>
+ <Distribution_Permissions>You may include MINISPLIT on any CD compilation.
+You may not sell MINISPLIT, it is FREEWARE!
+</Distribution_Permissions>
+ <EULA>MINISPLIT SOFTWARE LICENSE:
+
+1) GRANT OF LICENSE:
+LZE SOFTWARE grants you a single, non-exclusive license to use the MINISPLIT provided you agree to abide by the terms of this Agreement. Only one user is authorized to use the MINISPLIT on one computer at a time (and not by more than one individual via a network).
+
+2) OTHER RESTRICTIONS:
+You acknowledge that you do not become the owner of the MINISPLIT (software, programs and/or documentation). You agree not to transfer, rent,lease, sub-license, reverse engineer, modify, translate, or share the MINISPLIT, diskettes, or manual with any other person or firm.
+
+3) LIMITED WARRANTY:
+While we have attempted to ensure the reliability of the MINISPLIT, LZE SOFTWARE cannot assume any liability for damage that occurs because of usage of this program, whether or not in accordance with the instructions or specifications. It is not possible to guarantee the program's performance under all circumstances, at all times, with all hardware and software configurations, and with any user data, programs, or series of commands. LZE SOFTWARE warrants the diskette media and manual to be free from defects in materials or manufacture for a period of 30 days from your receipt. When you open this package or use the MINISPLIT you indicate you accept this as the only warranty. You agree that regardless of the form of any claim, LZE SOFTWARE's liability for any damages or loss to you or anyone else shall not exceed the price paid for use of the program. NO OTHER WARRANTIES. Except for the warranty described in the above paragraph, there are no warranties expressed or implied, including but not limited to, implied warranties of merchantability or fitness for a particular purpose, and all such warranties are expressly and specifically disclaimed.
+
+4) NO LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES:
+In no event shall LZE SOFTWARE or its suppliers, if any, be responsible for any special, incidental or consequential damages whatsoever (including, without limitation, damages for lost profits, business interruption, loss of information, or any other loss) arising out of the use or the inability to use this product, even if LZE SOFTWARE has been advised of the possibility of such damage. Some states do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+</EULA>
+</Permissions>
+
+
+
+<MSN>
+ <MSN_FORM>Y</MSN_FORM>
+ <MSN_IS_32bit>N</MSN_IS_32bit>
+</MSN>
+
+
+</XML_DIZ_INFO>
+
